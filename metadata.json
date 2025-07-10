@@ -1,0 +1,6 @@
+{
+  "name": "Math Live Mock Test",
+  "description": "An application for teachers to conduct live math mock tests. Teachers can upload an image of a math question paper, and the app uses AI to parse it into an interactive test for students.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
